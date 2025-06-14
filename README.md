@@ -1,5 +1,5 @@
 Problem Statement:
-A leading global automotive manufacturer is planning to expand its electric and hybrid vehicle portfolio in India. While the company has captured a significant share in its home market, its presence in the new region remains minimal. To support strategic expansion, the regional leadership has initiated a comprehensive market study to understand the existing landscape of electric and hybrid vehicles in the target country.
+A  global automotive manufacturer (imaginary) is planning to expand its electric and hybrid vehicle portfolio in India. While the company has captured a significant share in its home market, its presence in the new region remains minimal. To support strategic expansion, the regional leadership has initiated a comprehensive market study to understand the existing landscape of electric and hybrid vehicles in the target country.
 As part of this initiative, the data analytics team has been tasked with performing a detailed analysis using available sales and market data. 
 
 The team will:
